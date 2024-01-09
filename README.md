@@ -1,5 +1,5 @@
 # SmartServ Task 3+4
-Find it here : https://galvinguy2002.github.io/task34/ <br>
+Find it here : <br>
 3. Create a basic frontend of a login dashboard with the below mentioned  functionality <br>
 - [x] The login page should look like below  :white_check_mark:  <br>
 - [x] The user name field should only accept an email format. The validation should happen through Javascript. :white_check_mark:  <br>
@@ -10,7 +10,7 @@ Deliverables: <br>
 - [x] Github repository link to your solution.  :white_check_mark:  <br>
 - [x] Time taken to complete this. (30 minutes) <br>
 # SmartServ Task 3+4
-Find it here : https://galvinguy2002.github.io/task34/ <br>
+Find it here :  <br>
 4. Create a basic frontend of a login dashboard with the below mentioned functionality <br>
 - [x] The login page should look like given  :white_check_mark: <br>
 - [x] The user name field should only accept an email format. The validation should happen through Javascript.  :white_check_mark:  <br>
