@@ -25,10 +25,4 @@ Deliverables: <br>
 - [x] Time taken to complete this. (1 hour) <br>
 
 ##
-By Harshvardh <br>
-20104064 <br>
-Jaypee Institute of Information Technology,Noida <br>
-[harshsaxena5434@gmail.com] <br>
-Task@3 & Task@4 <br>
-
  
